@@ -54,6 +54,7 @@ h1 {
 .costo {
 	display: flex;
 	align-items: center;
+	margin: -1rem 0 1rem;
 }
 
 .descripcion {
